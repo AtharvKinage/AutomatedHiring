@@ -1,0 +1,355 @@
+Profile: 
+Manomay Jamble Pune Maharashtra India 91 8530817031 LinkedIn Github Kaggle manomayj15 gmail com 
+
+Education: 
+Education Education Vishwakarma Institute of Technology Pune B Tech ArtiÔ¨Åcial Intelligence and Data Science 2020 24 CGPA 8 93 10 
+
+Experience: 
+Trained, achieved, pizza, highest, Reviews, Price, gave, neural, Car, Networks, network, Linear, Projects, Streamlit, Gradient, Experience, Forest, URL, Learning, Performed, 
+
+Skills: 
+Skills used Programming Python Java C SQL Learn Softwares Databases Technologies Data Science Machine Learning Neural Networks Statistics Analytics Web 
+
+Extra: 
+
+
+Resume matched 52.63157894736842 % with job description
+Candidate Qualified for Interview Round
+
+
+19     What is a linked list data structure? 
+Data Structure is a type of data structure it is a chain length L structure
+tensor(0.3696)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+11    Do we consider NULL values the same as that of blank space or zero? 
+will you consider null values as zero
+tensor(0.7095)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+10    What is fragmentation?
+fragmentation is basically problem in memory management
+tensor(0.6942)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+8    Mention the different languages present in DBMS
+I don't know
+tensor(0.0203)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+6    Explain RDBMS with examples.
+RDBMS is relational database management system
+tensor(0.7853)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+19     What is a linked list data structure? 
+linked list Data Structure is a type of data structure used for
+tensor(0.6628)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+Number of change Tabs =0
+
+19     What is a linked list data structure? 
+list Data Structure is a type of data structure it is a chain like it is
+tensor(0.5026)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+17    Write about monolithic kernel?
+I don't know about Monolithic kernel
+tensor(0.6822)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+14    What are the ACID properties in DBMS?
+four properties in acid properties in DBMS their atomicity
+tensor(0.4372)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+6    Explain RDBMS with examples.
+RDBMS stands for relational database management system
+tensor(0.8185)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+2    What are the four necessary and sufficient conditions behind the deadlock?
+their mutual exclusion no preemption Woodland wait and circular way
+tensor(0.4847)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+11    Do we consider NULL values the same as that of blank space or zero? 
+as a blank spaces for zeros
+tensor(0.5634)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+17    Write about monolithic kernel?
+I don't know about this morning
+tensor(0.0859)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+Number of change Tabs =0
+
+0    What is an operating system?
+the type of interface between user hardware and the
+tensor(0.4537)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+6    Explain RDBMS with examples.
+relational database management system it is a type of
+tensor(0.6195)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+17    Write about monolithic kernel?
+I don't know about Mona Hrithik karna
+tensor(-0.0112)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+81. What is main function in python? How do you invoke it?
+the most important function in Python it is executed first
+tensor(0.5056)
+9    What are overlays?
+I don't know
+tensor(0.1102)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+12    What is an entity-relationship model?
+yeah model is an Entity relationship model is ER model in data
+tensor(0.5099)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+0    What is an operating system?
+operating system is a type of interface between user and hardware
+tensor(0.6946)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+0    What is an operating system?
+
+tensor(0.0620)
+confidence: 25.0%	 nervousness: 50.0%	 neutral: 50.0%
+
+Number of change Tabs =0
+
+0    What is an operating system?
+Amazon interface between the user and the hardware
+tensor(0.1930)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+12    What is an entity-relationship model?
+relationship model is a basically a relationship between different and
+tensor(0.5121)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+16    What is normalization and what are the different types of normalization?
+transition is basically some concept in DBMS
+tensor(0.1757)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+3    What are the different states of the process?
+5 to 6 different states of processes
+tensor(0.5309)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+13    What is the basic function of paging?
+the basic function of paging disine address translation in memory
+tensor(0.5506)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+15    What is the Direct Access Method?
+I don't know
+tensor(0.1012)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+Number of change Tabs =0
+
+4    What is a deadlock?  
+deadlock is like the situation where into processes are continuously waiting state
+tensor(0.7886)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+2    What are the four necessary and sufficient conditions behind the deadlock?
+necessary conditions can a deadlock per mutual exclusion notification
+tensor(0.5069)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+7    What is Bankerís algorithm?
+banker's algorithm is used for deadlock detection and avoidance
+tensor(0.8150)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+8    Mention the different languages present in DBMS
+I don't know
+tensor(0.0203)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+19     What is a linked list data structure? 
+best data structure is a type of data structure where data stored in Chennai
+tensor(0.2250)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+12    What is an entity-relationship model?
+Entity relationship model is musicpleer diagram
+tensor(0.5207)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+17    Write about monolithic kernel?
+I don't know
+tensor(0.0924)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+3    What are the different states of the process?
+there are five different states of processes
+tensor(0.6026)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+4    What is a deadlock?  
+deadlock is used for deadlock
+tensor(0.7081)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+Number of change Tabs =0
+
+10    What is fragmentation?
+fragmentation is a type of problem and memory management and unlock
+tensor(0.6589)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+14    What are the ACID properties in DBMS?
+acid properties in DBMS their atomicity
+tensor(0.4696)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+11    Do we consider NULL values the same as that of blank space or zero? 
+yes we do consider null values as blank space aur 0
+tensor(0.6552)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+16    What is normalization and what are the different types of normalization?
+action is a part of DBMS
+tensor(0.1430)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+6    Explain RDBMS with examples.
+RDBMS stands for relational database management system
+tensor(0.8185)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+2    What are the four necessary and sufficient conditions behind the deadlock?
+their mutual exclusion Hold and wait preemption
+tensor(0.6287)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+11    Do we consider NULL values the same as that of blank space or zero? 
+yes we do consider null values as blank space 40
+tensor(0.6650)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+Number of change Tabs =0
+
+11    Do we consider NULL values the same as that of blank space or zero? 
+
+tensor(-0.0298)
+confidence: 30.3%	 nervousness: 39.39%	 neutral: 60.61%
+
+12    What is an entity-relationship model?
+
+tensor(0.0036)
+confidence: 12.5%	 nervousness: 75.0%	 neutral: 25.0%
+
+3    What are the different states of the process?
+Rajput Rajput
+tensor(0.0946)
+confidence: 22.73%	 nervousness: 54.55%	 neutral: 45.45%
+
+6    Explain RDBMS with examples.
+
+tensor(-0.0508)
+confidence: 70.0%	 nervousness: 10.0%	 neutral: 40.0%
+
+19     What is a linked list data structure? 
+
+tensor(0.0361)
+confidence: 38.64%	 nervousness: 31.82%	 neutral: 59.09%
+
+0    What is an operating system?
+4    What is a deadlock?  
+
+tensor(0.0224)
+confidence: 30.0%	 nervousness: 50.0%	 neutral: 40.0%
+
+12    What is an entity-relationship model?
+
+tensor(0.0036)
+confidence: 33.33%	 nervousness: 33.33%	 neutral: 66.67%
+
+3    What are the different states of the process?
+
+tensor(0.0007)
+confidence: 50.0%	 nervousness: 0.0%	 neutral: 100.0%
+
+6    Explain RDBMS with examples.
+
+tensor(-0.0508)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+19     What is a linked list data structure? 
+
+tensor(0.0361)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+5    Briefly explain FCFS?
+
+tensor(-0.0123)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+Number of change Tabs =0
+
+14    What are the ACID properties in DBMS?
+
+tensor(0.0345)
+confidence: 47.87%	 nervousness: 4.26%	 neutral: 95.74%
+
+3    What are the different states of the process?
+
+tensor(0.0007)
+confidence: 50.0%	 nervousness: 0.0%	 neutral: 100.0%
+
+5    Briefly explain FCFS?
+
+tensor(-0.0123)
+confidence: 47.92%	 nervousness: 4.17%	 neutral: 95.83%
+
+12    What is an entity-relationship model?
+
+tensor(0.0036)
+confidence: 50.0%	 nervousness: 0.0%	 neutral: 100.0%
+
+6    Explain RDBMS with examples.
+
+tensor(-0.0508)
+confidence: 44.12%	 nervousness: 11.76%	 neutral: 88.24%
+
+0    What is an operating system?
+Number of change Tabs =1
+
+
+tensor(0.0620)
+confidence: 50.0%	 nervousness: 0.0%	 neutral: 100.0%
+
+5    Briefly explain FCFS?
+
+tensor(-0.0123)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+6    Explain RDBMS with examples.
+
+tensor(-0.0508)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+5    Briefly explain FCFS?
+
+tensor(-0.0123)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+3    What are the different states of the process?
+
+tensor(0.0007)
+confidence: 0%	 nervousness: 0%	 neutral: 0%
+
+12    What is an entity-relationship model?
