@@ -3,7 +3,6 @@ import cv2
 import json
 import numpy as np
 import face_classifier
-import tensorflow as tf
 
 from flask import Flask, render_template,  request, send_from_directory, redirect, url_for
 from keras.models import model_from_json, load_model
